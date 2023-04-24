@@ -1,5 +1,5 @@
 
-import Demo from './components/Demo';
+import Body from './components/Body';
 import Header from './components/Header';
 import './App.css';
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
         <div className="gradient"/>
         <div className="app">
             <Header/>
-            <Demo/>
+            <Body/>
         </div>
     </main>
   )
