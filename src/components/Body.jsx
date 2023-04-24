@@ -1,6 +1,5 @@
 import React from 'react'
 import link from '../assets/link.svg'
-import button from '../assets/button.svg'
 import {useState,useEffect} from 'react'
 import { useLazyGetSummaryQuery } from '../services/article'
 import copy from '../assets/copy.svg';
